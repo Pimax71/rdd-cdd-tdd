@@ -16,7 +16,7 @@ This package gives the weather and temperature of a town you specify.
 
 ##Requirements
 
-Have "node.js" installed on your machine. It is available [here](https://nodejs.org/en/).
+Have "node.js" installed on your machine. You can get it [here](https://nodejs.org/en/).
 
 ##Package Installation
 - Download this pakage, clicking the button "Clone or download" available [here](https://github.com/92bondstreet/rdd-cdd-tdd).
