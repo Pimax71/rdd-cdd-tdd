@@ -62,7 +62,7 @@ Temperature: 8C
 
 Warning: don't forget the capital letters of the names.
 
-If you want the temperature in Farenheit, write F at the end of the command. For example:
+If you want the temperature in Farenheit, write F at the end of the command. For example :
 ```sh
 node cli.js Paris France F
 ```
