@@ -10,7 +10,7 @@
 - [How to use it?](#How to use it?)
 - [Licence](#licence)
 
-##Package Presentation
+##Presentation
 
 This package gives the weather and temperature of a town you specify.
 
